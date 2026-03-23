@@ -1,4 +1,4 @@
-<h1 align="center">🌸 Tanya Gupta</h1>
+<h1 align="center">Tanya Gupta</h1>
 
 <h3 align="center">💻 Full Stack Engineer | 📞 Telephony Systems Expert | ⚡ Backend Architect</h3>
 
