@@ -1,104 +1,102 @@
-<h1 align="center">✨ Tanya Gupta ✨</h1>
+<h1 align="center">🌸 Tanya Gupta</h1>
 
-<h3 align="center">🚀 Full Stack Developer | Telephony & Backend Systems Specialist</h3>
+<h3 align="center">💻 Full Stack Engineer | 📞 Telephony Systems Expert | ⚡ Backend Architect</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Building+Real-Time+Systems;MERN+Stack+Developer;VoIP+%7C+Asterisk+Developer;Backend+%26+API+Specialist&center=true&width=500&height=45&color=F75C7E">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+Scalable+Systems;Real-Time+Telephony+Developer;MERN+Stack+Engineer;Asterisk+%7C+VoIP+Specialist;Clean+Code+%7C+Smart+Solutions">
 </p>
 
 ---
 
-## 🧠 About Me
+## 🌟 Profile Snapshot
 
-- 💻 Full Stack Developer focused on **real-world production systems**
-- 📡 Experienced in **Telephony (Asterisk, Dialer Systems)**
-- ⚡ Strong in **Backend APIs & System Logic**
-- 🔐 Built secure systems like **IP Allow & Access Control**
-- 🚀 Passionate about building **scalable & efficient applications**
+<img align="right" height="160" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
----
-
-## ⚡ Tech Universe
-
-### 👩‍💻 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-
-### 🗄️ Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-
-### 📡 Telephony & Systems
-![Asterisk](https://img.shields.io/badge/Asterisk-EF3B2D?style=for-the-badge)
-![VoIP](https://img.shields.io/badge/VoIP-000000?style=for-the-badge)
-
-### 🛠️ Tools & Others
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![REST API](https://img.shields.io/badge/API-005571?style=for-the-badge)
+- 🚀 Building **production-level applications**
+- 📡 Specialized in **Telephony & Dialer Systems**
+- ⚙️ Strong grip on **Backend Architecture**
+- 🔐 Focus on **Security & Performance**
+- 💡 Turning ideas into **real-world solutions**
 
 ---
 
-## 🚀 Featured Projects
-
-### 📞 Telephony Dialer System
-- Built complete dialer system using **Node.js + React**
-- Integrated with **Asterisk (PJSIP)**
-- Call management, agent handling, real-time updates
-
----
-
-### 💼 Billing System
-- Backend APIs + Admin Dashboard
-- Data management with **MySQL**
-- Secure & optimized architecture
-
----
-
-### 💬 WhatsApp Panel
-- Messaging panel with automation features
-- Backend integration for handling user communication
-
----
-
-### 🔐 IP Allow System
-- Built IP-based access control system
-- Enhanced security for admin & system access
-
----
-
-## 📊 GitHub Analytics
+## 🧩 Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TanyaGupta24&show_icons=true&theme=tokyonight" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TanyaGupta24&theme=tokyonight" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,mysql,git,js,html,css" />
+
 </p>
 
 ---
 
-## 🎯 What I Do
+## 🛰️ Core Expertise
 
-✔ Build scalable backend systems  
-✔ Develop real-time telephony solutions  
-✔ Create full-stack web applications  
-✔ Solve real-world technical problems  
+✨ Real-Time Systems  
+✨ Telephony Integration (Asterisk / VoIP)  
+✨ REST API Development  
+✨ Scalable Backend Logic  
+✨ Secure Access Systems  
 
 ---
 
-## 🌐 Let's Connect
+## 🚀 Highlight Projects
+
+### 📞 Smart Dialer System
+✔ Built using **React + Node.js**  
+✔ Integrated with **Asterisk (PJSIP)**  
+✔ Real-time call tracking & agent system  
+
+---
+
+### 💼 Advanced Billing Platform
+✔ Admin dashboard + APIs  
+✔ Structured data with **MySQL**  
+✔ Optimized & scalable backend  
+
+---
+
+### 💬 Automation Messaging Panel
+✔ WhatsApp-based automation  
+✔ Backend-driven communication system  
+
+---
+
+### 🔐 Secure Access Control
+✔ IP-based restriction system  
+✔ Admin-level security implementation  
+
+---
+
+## 📊 GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TanyaGupta24&show_icons=true&theme=radical&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TanyaGupta24&theme=radical&hide_border=true" height="150"/>
+</p>
+
+---
+
+## 🎯 What I Bring
+
+✔ Clean & scalable code  
+✔ Problem-solving mindset  
+✔ Real-world system building  
+✔ Fast learning & adaptability  
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="your-linkedin-link">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-Tanya%20Gupta-blue?style=for-the-badge&logo=linkedin">
   </a>
   <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Send-red?style=for-the-badge&logo=gmail">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
   </a>
 </p>
 
 ---
 
-⭐ Designed & Built by Tanya Gupta
+<p align="center">✨ Crafted with passion by Tanya Gupta</p>
